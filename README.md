@@ -1,3 +1,3 @@
 # wi21-cse110-lab4
-name: Miaoqiu Sun\
+Name: Miaoqiu Sun\
 email: mis002@ucsd.edu
