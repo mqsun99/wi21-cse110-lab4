@@ -9,7 +9,8 @@ Answer the following questions:
 * What was the bug?
   * The bug is that 
 * How would you fix it? Include a screenshot of your fix.
-  * 
+  * I fixed it by adding `Number()` before the two values, converting `num1` and `num2` into numbers.
+  
 ![fix](fixation.png)
 
 ## DevTools - Network Tab
