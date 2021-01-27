@@ -7,7 +7,7 @@ Include the following screenshots:
 
 Answer the following questions:
 * What was the bug?
-  * The bug is that 
+  * The bug is that `num1` and `num2` in the `printSum()` function are strings, causing the function `calculateSum(num1, num2)` to simly append `num2` to `num1`, rather than adding their numerical values.
 * How would you fix it? Include a screenshot of your fix.
   * I fixed it by adding `Number()` before the two values, converting `num1` and `num2` into numbers.
   
